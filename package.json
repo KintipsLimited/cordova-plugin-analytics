@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appfeel/analytics-google.git"
+    "url": "git+https://github.com/KintipsLimited/cordova-plugin-analytics.git"
   },
   "keywords": [
     "analytics",
@@ -39,7 +39,7 @@
   "author": "AppFeel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/appfeel/analytics-google/issues"
+    "url": "https://github.com/KintipsLimited/cordova-plugin-analytics/issues"
   },
-  "homepage": "https://github.com/appfeel/analytics-google#readme"
+  "homepage": "https://github.com/KintipsLimited/cordova-plugin-analytics#readme"
 }
